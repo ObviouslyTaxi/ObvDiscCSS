@@ -1608,7 +1608,7 @@
 }
 
 :root ::-webkit-input-placeholder, :root body, :root button, :root input, :root select, :root textarea {
-  font-family: "Nunito" !important;
+  font-family: "Redressed" !important;
 }
 :root .bg-1QIAus {
   background: var(--background-tertiary-alt);
