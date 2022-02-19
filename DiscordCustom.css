@@ -1608,7 +1608,7 @@
 }
 
 :root ::-webkit-input-placeholder, :root body, :root button, :root input, :root select, :root textarea {
-  font-family: "Nunito" !important;
+  font-family: "Shizuru" !important;
 }
 :root .bg-1QIAus {
   background: var(--background-tertiary-alt);
@@ -1802,7 +1802,7 @@
   }
 
   .container-1eFtFS::after {
-    content: "Stay Poggers!";
+    content: "Stay Sadge!";
     position: fixed;
     top: 220px;
     bottom: 85px;
